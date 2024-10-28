@@ -3,9 +3,6 @@ Hi, I'm goccy 😃
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=goccy&count_private=true&show_icons=true&&theme=onedark" />
 </span>
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goccy&theme=onedark&layout=compact" />
-</span>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=goccy&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -25,10 +22,11 @@ I love OSS developing. Let me introduce the open software projects I have develo
 - [binarian](https://github.com/goccy/binarian): BinaryHack library for Gopher
 - [rebirth](https://github.com/goccy/rebirth): Supports live reloading for Go
 
+- [grpc-federation](https://github.com/mercari/grpc-federation): Generates a gRPC server by writing a custom option in Protocol Buffers
 - [vitess-sqlparser](https://github.com/blastrain/vitess-sqlparser): Simply SQL and DDL parser for Go (powered by vitess and TiDB )
-- [Rapidash](https://github.com/blastrain/rapidash): Go package for the database record or other data caching
-- [Octillery](https://github.com/blastrain/octillery): Go package for sharding databases
-- [Eevee](https://github.com/blastrain/eevee): Generate model, repository, dao sources for Go application
+- [rapidash](https://github.com/blastrain/rapidash): Go package for the database record or other data caching
+- [octillery](https://github.com/blastrain/octillery): Go package for sharding databases
+- [eevee](https://github.com/blastrain/eevee): Generate model, repository, dao sources for Go application
 
 ## TypeScript
 
@@ -43,7 +41,7 @@ I love OSS developing. Let me introduce the open software projects I have develo
 - [Compiler::Tools::CopyPasteDetector](https://github.com/goccy/p5-Compiler-Tools-CopyPasteDetector): Detect Copy and Paste of Perl5 codes
 - [Test::AutoGenerator](https://github.com/goccy/p5-Test-AutoGenerator): Automatically generates Perl5 test code
 - [App::Ikaros](https://github.com/goccy/p5-App-Ikaros): Distributed testing framework for Jenkins
-- 
+
 
 ## Objective-C
 
