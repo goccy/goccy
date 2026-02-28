@@ -22,6 +22,8 @@ I love OSS developing. Let me introduce the open software projects I have develo
   - ![GitHub stars](https://img.shields.io/github/stars/goccy/go-zetasqlite.svg?style=social&label=Stars)
 - [go-zetasql](https://github.com/goccy/go-zetasql): Go bindings for ZetaSQL
   - ![GitHub stars](https://img.shields.io/github/stars/goccy/go-zetasql.svg?style=social&label=Stars)
+- [tobari](https://github.com/goccy/tobari) Scoped coverage measurement tool for Go
+  - ![GitHub stars](https://img.shields.io/github/stars/goccy/tobari.svg?style=social&label=Stars)
 - [kubetest](https://github.com/goccy/kubetest): A CLI for distributed execution of tasks on Kubernetes
   - ![GitHub stars](https://img.shields.io/github/stars/goccy/kubetest.svg?style=social&label=Stars)
 - [kubejob](https://github.com/goccy/kubejob): A library for managing Kubernetes Job in Go
