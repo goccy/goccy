@@ -1,10 +1,12 @@
 Hi, I'm goccy 😃
 
+<!--
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=goccy&count_private=true&show_icons=true&&theme=onedark" />
 </span>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=goccy&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 I love OSS developing. Let me introduce the open software projects I have developed so far.
 
