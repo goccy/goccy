@@ -2,7 +2,7 @@ Hi, I'm goccy 😃
 
 <!--
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=goccy&count_private=true&show_icons=true&&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api?username=goccy&count_private=true&show_icons=true&&theme=onedark" />
 </span>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=goccy&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
