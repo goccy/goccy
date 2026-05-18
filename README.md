@@ -20,6 +20,10 @@ I love OSS developing. Let me introduce the open software projects I have develo
   - ![GitHub stars](https://img.shields.io/github/stars/goccy/go-graphviz.svg?style=social&label=Stars)
 - [bigquery-emulator](https://github.com/goccy/bigquery-emulator): BigQuery emulator server implemented in Go
   - ![GitHub stars](https://img.shields.io/github/stars/goccy/bigquery-emulator.svg?style=social&label=Stars)
+- [googlesqlite](https://github.com/goccy/googlesqlite): Run GoogleSQL using SQLite3 as the backend
+  - ![GitHub stars](https://img.shields.io/github/stars/goccy/googlesqlite.svg?style=social&label=Stars)
+- [go-googlesql](https://github.com/goccy/go-googlesql): Go bindings for GoogleSQL
+  - ![GitHub stars](https://img.shields.io/github/stars/goccy/go-googlesql.svg?style=social&label=Stars)
 - [go-zetasqlite](https://github.com/goccy/go-zetasqlite): A database driver library that interprets ZetaSQL queries and runs them using SQLite3
   - ![GitHub stars](https://img.shields.io/github/stars/goccy/go-zetasqlite.svg?style=social&label=Stars)
 - [go-zetasql](https://github.com/goccy/go-zetasql): Go bindings for ZetaSQL
